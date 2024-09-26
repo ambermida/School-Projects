@@ -1,0 +1,1 @@
+def Reverse():    print('Strings in reverse:', Third, Second, First)print('Please input a string:')First = str(input())print('Please input a string:')Second = str(input())print('Please input a string:')Third = str(input())Reverse()
